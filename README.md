@@ -46,7 +46,7 @@ For running the backend with FastAPI
 uvicorn fast_api:app --reload
 ```
 
-## Demo Input :computer:
+## Demo Input from [penguins.csv](https://github.com/bopardikarsoham/Penguin_Species_Quantum_Classifer_App/blob/main/penguins.csv):computer:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/77266161/213694508-6eb2899a-ec82-48fa-ba94-6af74abc4578.png" width="600" height="600" />
 </p>
