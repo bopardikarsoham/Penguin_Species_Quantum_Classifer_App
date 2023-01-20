@@ -40,9 +40,18 @@ To launch the server and run the project,
 streamlit run streamlit_app.py
 ```
 
-For running backend with FastAPI
+For running the backend with FastAPI
 
 ```
 uvicorn fast_api:app --reload
 ```
 
+## Demo Input :computer:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/77266161/213678509-453b3504-d7eb-4224-a62d-94f82f559548.png" width="600" height="600" />
+</p>
+
+## Prediction :fire:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/77266161/213679265-db7b4221-0ef0-4b4a-9603-6a6e23aea4cd.png" width="600" height="600" />
+</p>
