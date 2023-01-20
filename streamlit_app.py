@@ -1,7 +1,6 @@
 import streamlit as st
 from Function import predict_penguin #Calling the predict_penguin function from Function.py
 from PIL import Image
-import cv2
 st.title("Penguin Species Quantum Classifer :penguin:")
 
 island  = st.text_input("Island")
