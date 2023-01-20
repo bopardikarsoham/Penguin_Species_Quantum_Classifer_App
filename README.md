@@ -1,6 +1,6 @@
 # Classification of Penguins using a Quantum Support Vector Machine
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bopardikarsoham-penguin-species-quantum-cl-streamlit-app-8d0b9p.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bopardikarsoham-penguin-species-quantum-cl-streamlit-app-p7ofhi.streamlit.app/)
 
 In this project I have created a Quantum Machine Learning Model that can classify the species of Palmer Penguins on the basis of their features present in this [dataset](https://www.kaggle.com/datasets/ashkhagan/palmer-penguins-datasetalternative-iris-dataset).
 
