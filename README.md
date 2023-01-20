@@ -8,5 +8,42 @@ The goal of palmerpenguins is to provide a great dataset for data exploration & 
 
 ![Penguin_Species](https://user-images.githubusercontent.com/77266161/146253873-4dfbcc5c-eee2-4b60-b557-7df5abb6af2f.png)
 
-## About the data
-Data were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network.
+## How to run the project 🚀
+After cloning the repository to your local system, create a virtual environment, and activate it.
+
+```
+pip install virtualenv 
+virtualenv env
+```
+
+On Windows, powershell
+
+```
+.\env\Scripts\activate.ps1
+```
+
+On Mac/Linux
+
+```
+source ./env/bin/activate
+```
+
+Then install the required packages using the specified requirements.txt file
+
+```
+pip install -r requirements.txt
+```
+
+To launch the server and run the project,
+
+```
+streamlit run streamlit_app.py
+```
+
+For running backend with FastAPI
+
+```
+uvicorn fast_api:app --reload
+```
+
+## Output 
