@@ -48,10 +48,10 @@ uvicorn fast_api:app --reload
 
 ## Demo Input :computer:
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/77266161/213678509-453b3504-d7eb-4224-a62d-94f82f559548.png" width="600" height="600" />
+  <img src="https://user-images.githubusercontent.com/77266161/213694508-6eb2899a-ec82-48fa-ba94-6af74abc4578.png" width="600" height="600" />
 </p>
 
 ## Prediction :fire:
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/77266161/213679265-db7b4221-0ef0-4b4a-9603-6a6e23aea4cd.png" width="600" height="600" />
+  <img src="https://user-images.githubusercontent.com/77266161/213695069-7bab3e3f-a86c-44f2-97c7-d1fcf6c4f07a.png" width="600" height="600" />
 </p>
